@@ -1,6 +1,10 @@
+# Warning
+
+PLEASE DO NOT USE THIS PROGRAM TO CHEAT IN THE GAME. THIS IS BAD FOR YOUR EXPERIENCE AND ALSO NOT RESPECT TO THE LEVEL DESIGNER.
+
 # Introduction
 
-This is a simple solver for the iOS game [Strata](https://itunes.apple.com/cn/app/strata/id641702337?mt=8). The game is really beautiful and well-designed. Hope anyone reading this can buy this game to support those developers.
+This is a simple solver for the iOS game [Strata](https://itunes.apple.com/cn/app/strata/id641702337?mt=8). The game is really beautiful and well-designed. Hope anyone reading this can buy this game to support those indie developers.
 
 The whole solver is written in Haskell.
 
